@@ -1,6 +1,6 @@
 # ConsoleSortingApp
 <html>
   <body>
-    <h1>Just a simple sorting console app in C++</h1>
+    <h2>Just a simple sorting console app in C++</h2>
   </body>
 </html>
