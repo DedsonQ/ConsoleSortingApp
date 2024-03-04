@@ -63,7 +63,7 @@ int main()
     cout << "\n1. Automatic 2. Manual\n";
     cin >> x;
 
-    cout << "\nChoose a type of sorting";
+    cout << "\nChoose a type of sorting:";
     cout << "\n1. Ascending 2. Descending\n";
     cin >> z;
 
@@ -76,7 +76,7 @@ int main()
         }
     }
     else if (x == 2) {
-        cout << "Podaj 10 liczb\n";
+        cout << "Type in 10 numbers\n";
         for (i = 0; i < n; i++) {
             cin >> c;
             tab[i] = c;
